@@ -1,13 +1,17 @@
-criaCartao{
-    'Matemática'
-    'qual é o valor de x em x/22+3=18'
-    '330'
-}
-criaCartao{
-    'Português'
+criaCartao(
+'Matemática',
+'qual é o valor de x em x/22+3=18',
+'330'
+)
+    
+
+criaCartao(  
+'Português'
     'Na frase "João passou no concurso"o sujeito é'
     'João'
-}
+)
+
+
 criaCartao{
     'ingles'
     'traduza a frase:It’s pouring, take an umbrella.'
